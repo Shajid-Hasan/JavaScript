@@ -19,3 +19,4 @@ console.log(typeof country);
 //  Number
 var price = 555;
 console.log(typeof price);
+
